@@ -1,0 +1,26 @@
+body {
+    width: 750px;
+    height: 450px;
+    display: block;
+}
+
+#header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.profile-name {
+    align-self: center;
+}
+
+#follow {
+    padding-left: 400px;
+}
+
+#footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}

@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    margin: auto;    
+    background-color: rgba(128, 128, 128, 0.158);
+    width: 600px;
+    height: 300px;
+}
+
+.bola1 {
+    width: 70px;
+    height: 70px;
+    background-color: orange;
+    border: 2px solid;
+    border-radius: 50%;
+}
+
+.bola2 {
+    width: 70px;
+    height: 70px;
+    background-color: blue;
+    border-radius: 50%;
+    border: 2px solid;
+}
+

@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+    margin: auto;    
+    background-color: rgba(128, 128, 128, 0.158);
+    width: 600px;
+    height: 150px;
+}
+
+.bola1 {
+    width: 70px;
+    height: 70px;
+    background-color: orange;
+    border: 2px solid;
+    border-radius: 50%;
+    align-self: flex-start;
+}
+
+.quadrado {
+    width: 70px;
+    height: 70px;
+    background-color: blue;
+    border: 2px solid;
+}
+
+
